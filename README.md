@@ -1,3 +1,3 @@
 # Code-Files
-Python codes for my projects.
+Python codes for my projects in machine learning and computer vision.
 To be updated...
